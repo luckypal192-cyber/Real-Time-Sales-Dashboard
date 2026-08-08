@@ -1,8 +1,8 @@
-# Real-Time Sales Dashboard — Data Analytics Internship
+# Real-Time Sales Dashboard — Google Looker
 
 ## About this project
 
-This is my final project for the Data Analytics internship, built entirely in Google Looker
+This is my project for the Data Analytics internship, built entirely in Google Looker
 Studio. I worked with an e-commerce order dataset (order details, payment methods, and product/SKU
 information) to build a set of dashboards that answer real business questions — the kind Sales,
 Finance, and Marketing teams would actually ask.
