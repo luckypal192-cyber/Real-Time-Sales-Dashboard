@@ -10,8 +10,7 @@ Finance, and Marketing teams would actually ask.
 I built this on top of the same dataset I used during my training project, and added six new
 analytics tasks on top of it as part of the internship.
 
-🔗 **Live Dashboard:** https://datastudio.google.com/reporting/5bd2ff5a-2c20-4b6d-bcdd-6fc9ae0de763
-
+🔗 **Live Dashboard:** https://datastudio.google.com/s/jaNydC176ps
 ---
 
 ## What I used
